@@ -15,7 +15,7 @@ Beauty Saloon is a web project I built using HTML, CSS and JS. It consists of a 
 ---
 
 ## 🔗 Domain
-<a href="https://beautysalon-pablo.netlify.app/" >twitter-clone-pablo.netlify.app</a>
+<a href="https://beautysalon-pablo.netlify.app/" >beautysalon-pablo.netlify.app/</a>
 
 ---
 
